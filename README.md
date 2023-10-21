@@ -1,3 +1,32 @@
+app para usar aquelas barrinhas de navegação lá embaixo ara a aula de React-Native
+
+<div align="center">
+  <h3>Página Inicial - Tem um vídeo de fundo tocando a Homework ga owaranai (primeira ending do yu yu hakusho). Se trocar de página, o vídeo e o áudio são pausados</h3>
+  <img src="ImagensAPP/1.png">
+</div>
+<br><br>
+<div align="center">
+  <h3>Página do Hunter x Hunter. Tem a sinopse e os personagens principais (só os protagonistas)</h3>
+  <img src="ImagensAPP/2.png"><img src="ImagensAPP/3.png">
+</div>
+<br><br>
+<div align="center">
+  <h3>Ao apertar o botão, começa o vídeo da primeira opening do Hunter x Hunter, a DEPARTURE.</h3>
+  <img src="ImagensAPP/4.png"><img src="ImagensAPP/5.png">
+</div>
+<br><br>
+<div align="center">
+  <h3>Página do Yu Yu Hakusho. Tem a sinopse e os personagens principais (só os protagonistas)</h3>
+  <img src="ImagensAPP/6.png"><img src="ImagensAPP/7.png">
+</div>
+<br><br>
+<div align="center">
+  <h3>Ao apertar o botão, começa o vídeo da primeira opening do Yu Yu Hakusho, a Hohoemi no Bakudan ou Smile Bomb.</h3>
+  <img src="ImagensAPP/8.png"><img src="ImagensAPP/9.png">
+</div>
+<br><br>
+agora fiquem com os reclames do snack expo abaixo<br>
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
