@@ -1,4 +1,4 @@
-app para usar aquelas barrinhas de navegação lá embaixo ara a aula de React-Native
+app para usar aquelas barrinhas de navegação lá embaixo ara a aula de React-Native.<br>
 
 <div align="center">
   <h3>Página Inicial - Tem um vídeo de fundo tocando a Homework ga owaranai (primeira ending do yu yu hakusho). Se trocar de página, o vídeo e o áudio são pausados</h3>
