@@ -1,6 +1,11 @@
 app para usar aquelas barrinhas de navegação lá embaixo ara a aula de React-Native. Escolhi esse tema pois são dois animes muito bons feitos pelo mesmo cara.<br>
 
 <div align="center">
+  <h3>Att: coloquei na Google Play o app, mas as imagens saíram todas cagadas. vou prestar melhor atenção na próxima</h3>
+  <img src="ImagensAPP/G1.png"><img src="ImagensAPP/G2.png">
+</div>
+<br><br>
+<div align="center">
   <h3>Página Inicial - Tem um vídeo de fundo tocando a Homework ga owaranai (primeira ending do yu yu hakusho). Se trocar de página, o vídeo e o áudio são pausados</h3>
   <img src="ImagensAPP/1.png">
 </div>
