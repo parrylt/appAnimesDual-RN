@@ -2,7 +2,7 @@ app para usar aquelas barrinhas de navegação lá embaixo ara a aula de React-N
 
 <div align="center">
   <h3>Att: coloquei na Google Play o app, mas as imagens saíram todas cagadas. vou prestar melhor atenção na próxima</h3>
-  <img src="ImagensAPP/G1.png"><img src="ImagensAPP/G2.png">
+  <img src="ImagensAPP/G1.jpg"><img src="ImagensAPP/G2.jpg">
 </div>
 <br><br>
 <div align="center">
