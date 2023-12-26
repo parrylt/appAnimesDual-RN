@@ -30,6 +30,8 @@ app para usar aquelas barrinhas de navegação lá embaixo ara a aula de React-N
   <img src="ImagensAPP/8.png"><img src="ImagensAPP/9.png">
 </div>
 <br><br>
+
+aqui o link do snack: https://snack.expo.dev/@romulojr/appanimestogashi
 agora fiquem com os reclames do snack expo abaixo<br>
 
 # Sample Snack app
